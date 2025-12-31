@@ -54,6 +54,6 @@
     "grunt-contrib-uglify": "^2.0.0",
     "grunt-preprocess": "^5.1.0",
     "html-to-text": "^3.0.0",
-    "zombie": "^5.0.5"
+    "zombie": "^6.1.4"
   }
 }
